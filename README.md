@@ -3,4 +3,4 @@
 
 Trying to create a demo playground for this project.
                             
-                            -Nandini Singla
+                            -Nandini
